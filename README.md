@@ -1,4 +1,4 @@
 # BaoCaoTuan_Nhom1_P1.2
 Radio button, checkbox, chipgroup, swich, togglebutton
 
-![image 1](https://github.com/dat911zz/CPU-Scheduling-Algorithms/blob/master/Pics/FCFS.jpg) </br>
+![image 1](https://github.com/dat911zz/BaoCaoTuan_Nhom1_P1.2/blob/master/app/src/main/res/drawable/dashboard.png?raw=true) </br>
